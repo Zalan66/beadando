@@ -1,0 +1,60 @@
+.body{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+
+.navbar{
+    text-align: center;
+    font-size: 30px;
+    font-family: "montserrat", sans-serif;
+    color: #3f51b5;
+    background-color: beige;
+    border-radius: 6px;
+
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 30px;
+    text-align: right;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #3f51b5;
+    background-color: #d9e0ff;
+    border-radius: 10px;
+    left: 400%;
+    justify-content: space-between;
+}
+
+.vissza{
+    text-decoration: none;
+    display: inline-block;
+    background-color: #3f51b5;
+    padding: 10px 30px;
+    font-size: 18px;
+    margin-top: 20px;
+    border-radius: 6px;
+    color: white;
+    text-align: left;
+}
+
+.header{
+    text-align: center;
+}
+
+.container{
+    border-color: black;
+    border-style: dotted;
+}
+
+img{
+    width: 200px;
+}
+
+#h3id{
+    padding-left: 35px;
+}
